@@ -1,0 +1,5 @@
+{
+  "version": "1.2.0",
+  "updateUrl": "https://raw.githubusercontent.com/tonyjhonfernandez-cell/sistema-planillas/main/index.html",
+  "notes": "Versión inicial estable con cálculo dinámico de ONP, AFP y EsSalud."
+}
