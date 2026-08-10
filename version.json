@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "updateUrl": "https://raw.githubusercontent.com/tonyjhonfernandez-cell/sistema-planillas/main/index.html",
-  "notes": "Versión inicial estable con cálculo dinámico de ONP, AFP y EsSalud."
+  "notes": "Correccion critica: se restauro el archivo del sistema que estaba incompleto (evitaba pantalla en blanco en instalaciones nuevas) y se elimino el bloqueo por fecha de vencimiento. Mejoras de estabilidad en el actualizador."
 }
