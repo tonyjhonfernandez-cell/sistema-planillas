@@ -1,5 +1,5 @@
 {
-  "version": "1.2.3",
+  "version": "1.2.4",
   "updateUrl": "https://raw.githubusercontent.com/tonyjhonfernandez-cell/sistema-planillas/main/index.html",
   "notes": "AFP configurable: lista editable de AFP con sus comisiones (flujo, prima, aporte, saldo), seleccion por trabajador y calculo de planilla vinculado (Aporte+Flujo+Prima). Mantiene el tema verde."
 }
