@@ -1,5 +1,5 @@
 {
-  "version": "1.2.5",
+  "version": "1.2.6",
   "updateUrl": "https://raw.githubusercontent.com/tonyjhonfernandez-cell/sistema-planillas/main/index.html",
-  "notes": "Corrección de error de pantalla en blanco. AFP configurable (Mixta/Flujo) solucionado."
+  "notes": "Corrección al editar trabajador (modalidad AFP mixta/flujo)."
 }
